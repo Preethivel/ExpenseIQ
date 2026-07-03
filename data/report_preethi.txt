@@ -1,0 +1,20 @@
+========================================
+        EXPENSELQ FINAL REPORT
+========================================
+
+Username        : preethi
+Income          : Rs. 60000.0
+Fixed Expenses  : Rs. 9000.0
+Savings Target  : Rs. 30000.0
+Available Budget: Rs. 21000.0
+
+---- Transactions (sorted by amount) ----
+Food - Rs.200.0
+Food - Rs.300.0
+Cloth - Rs.500.0
+
+---- Top Category ----
+Food - Rs.500.0
+
+---- Health Score ----
+95.5 / 100 (Excellent)
